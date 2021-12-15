@@ -1,67 +1,73 @@
 ,suspect_name,last_known_address,suspect_description,date_received,warrant_number,reason_for_warrant
-0,"Nestark, Randolph","24 Grace Street
+0,"Maybee, Steven","34 Boyd Street
+Buffalo, NY 14213","White Male
+5'9"" 170 lbs
+Brown Hair
+Brown Eyes",08/23/2021,21-001671,Assault
+1,"Nestark, Randolph","24 Grace Street
 Buffalo, NY 14207","White Male
 5'7"" 215 lbs
 Black Hair
 Brown Eyes",10/25/2021,21-001733,Aggravated Unlicensed Operation of a Motor Vehicle; Equipment Violation
-1,"Williams, Juan","163 Ericson Avenue
+2,"Provorse, Raymond","713 Bishop Street
+Olean, NY 14760","White Male
+5'6"" 150 lbs
+Brown Hair
+Blue Eyes",10/16/2021,21-001729,Aggravated Unlicensed Operation of a Motor Vehicle; Operation of a Motor Vehicle by Unlicensed Driver; Stop/Stand/Park Violation; Operation of a Motor Vehicle Impaired By Drugs
+3,"Williams, Juan","163 Ericson Avenue
 Buffalo, NY 14215","Black Male
 5'10"" 255 lbs
 Black Hair
 Brown Eyes",10/14/2021,21-001727,DWAI; Moved from Lane Unsafely; Driving on Shoulder
-2,"Ortiz, Nayda","44 Lafayette Avenue
+4,"Ortiz, Nayda","44 Lafayette Avenue
 Buffalo, NY 14213","Hispanic Female
 5'4"" 203 lbs
 Black Hair
 Brown Eyes",10/07/2021,21-001721,Petit Larceny
-3,"Imperi, Zachary","376 Esser Avenue
+5,"Imperi, Zachary","376 Esser Avenue
 Lower
 Buffalo, NY 14207","White Male
 5'8"" 160 lbs
 Brown Hair
 Brown Eyes",09/22/2021,21-001712,Criminal Contempt
-4,"Tomaino, Allen","96 Locust Street #4
+6,"Tomaino, Allen","96 Locust Street #4
 Lockport, NY 14094","White Male
 5'4"" 175 lbs
 Brown Hair
 Hazel Eyes",09/17/2021,21-001728,Petit Larceny
-5,"Dunmire, Adam","513 W Main Street
+7,"Dunmire, Adam","513 W Main Street
 Springville, NY 14141","White Male
 5'8"" 160 lbs
 Brown Hair
 Brown Eyes",09/17/2021,21-001708,Assault with Intent to Cause Injury; Obstruction of Governmental Administration; Criminal Mischief; Criminal Obstruction of Breathing or Blood Circulation
-6,"Roman, Ferdinand","64 Center Street
+8,"Roman, Ferdinand","64 Center Street
 Buffalo, NY 14218","Hispanic Male
 5'8"" 160 lbs
 Brown Hair
 Brown Eyes",09/13/2021,21-001703,Criminal Sale of Narco Prep; Conspiracy; Attempt to Introduce Dangerous Contraband Into Prison; Contraband to Prisoners
-7,"Hunter, Ephraim","267 Northland Avenue
-Buffalo, NY 14208","Black Male
-5'11"" 160 lbs
+9,"King, Keith","110 Mcallister Avenue
+Syracuse, NY 13205","Black Male
+5'11"" 200 lbs
 Black Hair
-Brown Eyes",09/01/2021,21-001685,Reckless Driving; Aggravated Unlicensed Operation of a Motor Vehicle; Fail to Exercise Due Care to Avoid Collision; Operation of a Motor Vehicle with Obstructed Vision; Failure to Stop at Stop Sign; Speed not Reasonable and Prudent; Failure to Keep Right
-8,"Lunetta, Timothy","496 Willard Street
-Jamestown, NY 14701","White Male
-5'4"" 190 lbs
-Blonde Hair
-Brown Eyes",08/31/2021,21-001687 & 21-001688,Petit Larceny; Issuing a Bad Check; Aggravated Unlicensed Operation of a Motor Vehicle; Speeding; Use of a Vehicle without Interlock Devices
-9,"Pelonero, Salvatore","22 Washington Street
-Lancaster, NY 14086","White Male
-5'11"" 185 lbs
+Brown Eyes",09/09/2021,21-001695,Petit Larceny; Resisting Arrest; Obstruction of Governmental Administration
+10,"Williams, Stevie","211 Niagara Street
+Lockport, NY 14094","Black Male
+5'9"" 185 lbs
+Black Hair
+Brown Eyes",08/31/2021,21-001686,Petit Larceny
+11,"Anderson, George","171 Maple Avenue
+Springville, NY 14141","White Male
+5'11"" 230 lbs
 Brown Hair
-Blue Eyes",08/26/2021,21-001691,Possession of a Hypodermic Instrument; Criminal Possession of a Controlled Substance; Aggravated Unlicensed Operation of a Motor Vehicle; Operation of a Motor Vehicle with Obstructed Vision; Pedestrian Fail to Walk Facing Traffic
-10,"Sandy, Keith","430 Crossman Street
+Brown Eyes",08/27/2021,21-001677 & 21-001719,DWAI Drugs; Failed to Stop at Stop Sign; Operation of Motor Vehicle with Improper Plates; Operation of Unregistered Vehicle; Operation of a Motor Vehicle with no Inspection; Muffler Exhaust System Violation; Unsafe Tires; Equipment Violations
+12,"Justus, Joshua","1779 Welch Avenue
+Apt 1
+Niagara Falls, NY 14303","White Male
+5'11"" 160 lbs
+Brown Hair
+Brown Eyes",08/19/2021,21-001668,Petit Larceny
+13,"Sandy, Keith","430 Crossman Street
 Jamestown, NY 14701","White Male
 5'7"" 160 lbs
 Brown Hair
 Blue Eyes",08/17/2021,21-001655,Criminal Possession of a Controlled Substance; Aggravated Unlicensed Operation of a Motor Vehicle; Operation of a Motor Vehicle Without Insurance; Operation of a Motor Vehicle By Unlicensed Driver; Moved From Lane Unsafely
-11,"Fairbanks, Jessie","12177 Brant Reservation Road
-Brant, NY 14027","American Indian Male
-6' 200 lbs
-Black Hair
-Hazel Eyes",08/17/2021,21-001659,Aggravated Unlicensed Operation of a Motor Vehicle; Speeding
-12,"Schreier, Justin","7920 McKinley Road
-Westfield, NY 14787","White Male
-6' 140 lbs
-Brown Hair
-Brown Eyes",08/17/2021,21-001654,Unlawful Fleeing of a Police Officer in a Motor Vehicle; Obstruction of Governmental Administration; Reckless Driving; Resisting Arrest
