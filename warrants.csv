@@ -1,9 +1,9 @@
 ,suspect_name,last_known_address,suspect_description,date_received,warrant_number,reason_for_warrant
-0,"Maybee, Steven","34 Boyd Street
-Buffalo, NY 14213","White Male
-5'9"" 170 lbs
+0,"Anderson, Emanuel","329 Northumberland Avenue
+Buffalo, NY 14215","Black Male
+5'8"" 140 lbs
 Brown Hair
-Brown Eyes",08/23/2021,21-001671,Assault
+Brown Eyes",09/23/2021,21-001718,Grand Larceny 4-Value Property Greater Than $1000; Issuing a Bad Check with Known Insufficient Funds
 1,"Nestark, Randolph","24 Grace Street
 Buffalo, NY 14207","White Male
 5'7"" 215 lbs
@@ -55,18 +55,19 @@ Jamestown, NY 14701","White Male
 5'4"" 190 lbs
 Blonde Hair
 Brown Eyes",08/31/2021,21-001687 & 21-001688,Petit Larceny; Issuing a Bad Check; Aggravated Unlicensed Operation of a Motor Vehicle; Speeding; Use of a Vehicle without Interlock Devices
-11,"Pelonero, Salvatore","22 Washington Street
-Lancaster, NY 14086","White Male
-5'11"" 185 lbs
+11,"Anderson, George","171 Maple Avenue
+Springville, NY 14141","White Male
+5'11"" 230 lbs
 Brown Hair
-Blue Eyes",08/26/2021,21-001691,Possession of a Hypodermic Instrument; Criminal Possession of a Controlled Substance; Aggravated Unlicensed Operation of a Motor Vehicle; Operation of a Motor Vehicle with Obstructed Vision; Pedestrian Fail to Walk Facing Traffic
-12,"McHale, Ethan","3761 Edgewood Drive
-Gowanda, NY 14070","White Male
-6'4"" 200 lbs
-Red Hair
-Brown Eyes",08/19/2021,21-001669,False Personation
-13,"Brown, Hajenhe","4416 Young Road
-Syracuse, NY 13215","White Male
-5'10"" 220 lbs
-Black Hair
-Brown Eyes",08/17/2021,21-001660,DWI; Fail to Stop at Stop Sign; Changing Lanes when Hazardous; Speed not Reasonable and Prudent; Speeding; Moved from Lane Unsafely
+Brown Eyes",08/27/2021,21-001677 & 21-001719,DWAI Drugs; Failed to Stop at Stop Sign; Operation of Motor Vehicle with Improper Plates; Operation of Unregistered Vehicle; Operation of a Motor Vehicle with no Inspection; Muffler Exhaust System Violation; Unsafe Tires; Equipment Violations
+12,"Williams, Donnesha","54 Wakefield Avenue
+Buffalo, NY 14214","Black Female
+5' 150 lbs
+Brown Hair
+Brown Eyes",08/24/2021,21-001673,Aggravated Unlicensed Operation of a Motor Vehicle; Stop/Stand/Parking Violation on a Highway
+13,"Justus, Joshua","1779 Welch Avenue
+Apt 1
+Niagara Falls, NY 14303","White Male
+5'11"" 160 lbs
+Brown Hair
+Brown Eyes",08/19/2021,21-001668,Petit Larceny
