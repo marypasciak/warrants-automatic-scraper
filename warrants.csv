@@ -1,66 +1,71 @@
 ,suspect_name,last_known_address,suspect_description,date_received,warrant_number,reason_for_warrant
-0,"Meslinsky, Christopher","2158 Seneca Road
+0,"Pawlak, Kayla","56 Garfield Street
+Holland, NY 14080","White Female
+5'8"" 130 lbs
+Red Hair
+Green Eyes",01/24/2022,22-001863,Criminal Possession of a Controlled Substance; Possession of a Hypodermic Instrument; Resisting Arrest; Criminal Impersonation; Obstruction of Governmental Administration; Disorderly Conduct/Fighting/Violent Behavior
+1,"Meslinsky, Christopher","2158 Seneca Road
 Lawtons, NY 14091","White Male
 6' 200 lbs
 Gray Hair
 Blue Eyes",01/26/2022,22-001866,Assault
-1,"Nicometi, Brianna","5840 Curriers Road
+2,"Strong, Steven","7555 Southwestern Blvd
+Eden, NY 14057","White Male
+6' 275 lbs
+Brown Hair
+Blue Eyes",01/25/2022,22-001849,Aggravated Unlicensed Operation of a Motor Vehicle; Illegal Signal
+3,"Nicometi, Brianna","5840 Curriers Road
 Arcade, NY 14009","White Female
 5'2"" 115 lbs
 Blonde Hair
 Hazel Eyes",01/14/2022,22-001845,Petit Larceny
-2,"Ivey, Brian","264 Ridge Road
-Lackawanna, NY 14218","Black Male
-6'1"" 130 lbs
+4,"Skaggs, Samantha","137 North Center Street
+Bradford, PA 16701","White Female
+5'2"" 140 lbs
+Brown Hair
+Hazel Eyes",01/14/2022,22-001846,Petit Larceny
+5,"Parker, Virgil","305 Perry Street
+Buffalo, NY 14204","Black Male
+6'2"" 180 lbs
 Black Hair
-Brown Eyes",01/13/2022,22-001841,Criminal Contempt
-3,"Silverheels, Jersie","355 Rochester Street
-#2
-Salamanca, NY 14779","White Female
-5'7"" 180 lbs
+Brown Eyes",01/13/2022,22-001842,Criminal Sale of a Controlled Substance
+6,"Swantek, Kayla","1582 Cayuga Road
+Brant, NY 14027","American Indian Female
+5'5"" 225 lbs
 Brown Hair
-Brown Eyes",01/10/2022,22-001838,Criminal Mischief: Intent to Damage Property; Criminal Trespass
-4,"Dibble, Gregory","3212 Bear Creek Road
-Franklinville, NY 14737","White Male
-5'5"" 175 lbs
+Brown Eyes",01/10/2022,22-001837,Criminal Possession of a Controlled Substance; Criminal Possession of Narcotics; Conceal/Alter/Destroy Physical Evidence
+7,"Broadway, Terrika","220 Lewis Street
+Lower
+Buffalo, NY 14206","Black Female
+5'5"" 140 lbs
 Brown Hair
-Brown Eyes",12/30/2021,22-001835,Criminal Possession of a Controlled Substance; False Personation
-5,"Carpenter, Cole","1525 Rusher Drive
+Brown Eyes",12/30/2021,22-001822,Trespass
+8,"Carpenter, Cole","1525 Rusher Drive
 #C22
 Alden, NY 14004","White Male
 5'11"" 165 lbs",12/20/2021,21-001805,Disorderly Conduct
-6,"Hobes, Justin","114 Drexel Road
+9,"Hobes, Justin","114 Drexel Road
 Buffalo, NY 14214","Black Male
 5'3"" 150 lbs
 Black Hair
 Brown Eyes",12/07/2021,21-001798,Aggravated Harassment
-7,"Delgado, Emanuel","197 Thompson Street
+10,"Delgado, Emanuel","197 Thompson Street
 Buffalo, NY 14207","Hispanic Male
 5'7"" 150 lbs
 Black Hair
 Brown Eyes",11/29/2021,21-001788,Criminal Possession of a Controlled Substance
-8,"Britt, Ashley","3727 Route 39
+11,"Britt, Ashley","3727 Route 39
 Collins, NY 14034","White Female
 5'2"" 120 lbs
 Blonde Hair
 Blue Eyes",11/22/2021,21-001778 & 21-001779,"Grand Larceny 4-Value Property Greater Than $1000; Harassment, Physical Contact"
-9,"Acoff, Michael","50 Gold Street
+12,"Acoff, Michael","50 Gold Street
 Buffalo, NY 14206","Black Male
 5'9"" 280 lbs
 Black Hair
 Brown Eyes",11/22/2021,21-001782,Criminal Possession of Stolen Property/Vehicle; Criminal Possession of a Controlled Substance; Aggravated Unlicensed Operation of a Motor Vehicle
-10,"Vosburg, Jarrod","6800 Swigert Road
+13,"Vosburg, Jarrod","6800 Swigert Road
 Newfane, NY 14094","White Male
 5'9"" 225 lbs
 Brown Hair
 Blue Eyes",11/19/2021,21-001797,Grand Larceny 4-Value Property Greater Than $1000; Scheme to Defraud
-11,"Congdon, Amanda","86 Bullis Road
-Alden, NY 14004","White Female
-5'2 135 lbs
-Brown Hair
-Brown Eyes",11/08/2021,21-001766,Criminal Possession of Stolen Property
-12,"Britt, Kevin","64 Chestnut Street
-Gowanda, NY 14070","White Male
-6'4"" 200 lbs
-Brown Hair
-Blue Eyes",11/02/2021,21-001806,Aggravated Unlicensed Operation of a Motor Vehicle; Speeding
