@@ -1,72 +1,74 @@
 ,suspect_name,last_known_address,suspect_description,date_received,warrant_number,reason_for_warrant
-0,"Scheer, Jeffrey","30 Remoleno
+0,"Seneca, Christian","545 Milestrip Road
+Irving, NY 14081","American Indian Male
+5'4"" 165 lbs
+Black Hair
+Hazel Eyes",02/23/2022,22-001888 & 22-001905,DWI; Moved From Lane Unsafely
+1,"Scheer, Jeffrey","30 Remoleno
 Buffalo, NY 14210","White Male
 6'1"" 225 lbs
 Brown Hair
 Blue Eyes",03/14/2022,22-001886 & 22-001911,Custodial Interference; Aggravated Harassment; Act in a Manner Injurious to a Child Under 17; Criminal Contempt
-1,"Miller, Elijah","109 Kent
-Salamanca, NY 14779","American Indian Male
-5'10"" 220 lbs
-Black Hair
-Brown Eyes",03/13/2022,22-001908 & 22-001909,Reckless Endangerment; Assault with Intent to Cause Physical Harm; Criminal Mischief; Obstruction of Governmental Admin; Resisting Arrest
-2,"Nelms, James","12462 Longhouse Road
+2,"Jaroszynski, Dalton","5078 College Street
+Hamburg, NY 14075","White Male
+5'9"" 165 lbs
+Blonde Hair
+Blue Eyes",03/04/2022,22-001919,Grand Larceny 4-Value Property Greater Than $1000
+3,"Digangi, Anthony","12297 Big Tree Road
+Lot 22
+Wales, NY 14168","White Male
+6' 175 lbs
+Blonde Hair
+Blue Eyes",03/03/2022,22-001915,Criminal Trespass
+4,"Nelms, James","12462 Longhouse Road
 Collins, NY 14091","American Indian Male
 6'4"" 200 lbs
 Brown Hair
 Brown Eyes",02/27/2022,22-001889,Circumvent Interlock Device; Aggravated Unlicensed Operation of a Motor Vehicle; Operation of a Motor Vehicle Without Stop Lights
-3,"Haag, Frederick","2757 Grand Avenue
+5,"Haag, Frederick","2757 Grand Avenue
 Niagara Falls, NY 14301","White Male
 5'11"" 175 lbs
 Gray Hair
 Brown Eyes",02/23/2022,22-001903,Criminal Obstruction of Breathing & Blood Circulation; Assault with Intent to Cause Physical Harm
-4,"Hatten, Robert","241 Genesee Street
+6,"Hatten, Robert","241 Genesee Street
 Lower
 Buffalo, NY 14204","Black Male
 5'11"" 210 lbs
 Black Hair
 Brown Eyes",02/15/2022,22-001872,Grand Larceny 4-Value Property Greater Than $1000; Possession of a Forged Instrument
-5,"Pfaffenbach, Daniel","4 E. Main Street
+7,"Pfaffenbach, Daniel","4 E. Main Street
 Frewsburg, NY 14723","White Male
 6' 180 lbs
 Brown Hair
 Blue Eyes",01/28/2022,22-001870,Parking violation; Equipment Violations
-6,"Meslinsky, Christopher","2158 Seneca Road
+8,"Meslinsky, Christopher","2158 Seneca Road
 Lawtons, NY 14091","White Male
 6' 200 lbs
 Gray Hair
 Blue Eyes",01/26/2022,22-001866,Assault
-7,"Strong, Steven","7555 Southwestern Blvd
+9,"Strong, Steven","7555 Southwestern Blvd
 Eden, NY 14057","White Male
 6' 275 lbs
 Brown Hair
 Blue Eyes",01/25/2022,22-001849,Aggravated Unlicensed Operation of a Motor Vehicle; Illegal Signal
-8,"Mcilreath, Corrine","70 Smith Street
+10,"Mcilreath, Corrine","70 Smith Street
 Springville, NY 14141","White Female
 5'4"" 160 lbs
 Brown Hair
 Blue Eyes",01/14/2022,22-001844,Aggravated Unlicensed Operation of a Motor Vehicle
-9,"Parker, Virgil","305 Perry Street
+11,"Parker, Virgil","305 Perry Street
 Buffalo, NY 14204","Black Male
 6'2"" 180 lbs
 Black Hair
 Brown Eyes",01/13/2022,22-001842,Criminal Sale of a Controlled Substance
-10,"Swantek, Kayla","1582 Cayuga Road
+12,"Swantek, Kayla","1582 Cayuga Road
 Brant, NY 14027","American Indian Female
 5'5"" 225 lbs
 Brown Hair
 Brown Eyes",01/10/2022,22-001837,Criminal Possession of a Controlled Substance; Criminal Possession of Narcotics; Conceal/Alter/Destroy Physical Evidence
-11,"Broadway, Terrika","220 Lewis Street
+13,"Broadway, Terrika","220 Lewis Street
 Lower
 Buffalo, NY 14206","Black Female
 5'5"" 140 lbs
 Brown Hair
 Brown Eyes",12/30/2021,22-001822,Trespass
-12,"Carpenter, Cole","1525 Rusher Drive
-#C22
-Alden, NY 14004","White Male
-5'11"" 165 lbs",12/20/2021,21-001805,Disorderly Conduct
-13,"Clough, Anthony","93 East Street
-Buffalo, NY 14207","White Male
-5'4"" 150 lbs
-Brown Hair
-Hazel Eyes",12/03/2021,21-001793,Introduction of Contraband into Prison; Criminal Possession of a Controlled Substance
